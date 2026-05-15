@@ -71,7 +71,6 @@ nav a:hover {
     height: 50px;
     border-radius: 50%;
     background-color: black;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,15 +78,10 @@ nav a:hover {
 
 .cart i {
     color: white;
-    font-size: 22px;
+    font-size: 20px;
 }
 
-
-/* Navbaar done  */
-
-
 .hero {
-    /* background-color: #552525; */
     border-radius: 2px solid black;
     display: grid;
     grid-template-columns: 20% 80%;
